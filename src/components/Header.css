@@ -1,0 +1,22 @@
+#header-color .header-bg{
+    background-color: rgb(31, 6, 102) !important;
+    padding: 20px;
+    /* position: sticky; */
+}
+
+#header-color .navbar-brand{
+    color: white;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+#header-color .nav-link{
+    color: white;
+    font-weight: 500;
+}
+.cart{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 11px;
+}

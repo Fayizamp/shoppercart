@@ -1,0 +1,15 @@
+/* .bgcolor {
+    background-color: rgb(16, 16, 119);
+} */
+
+.bgColor {
+    height: 70px;
+    background: rgb(24, 139, 105);
+    color: white;
+    font-size: 20px;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
